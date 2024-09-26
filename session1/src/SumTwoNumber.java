@@ -23,6 +23,7 @@ public class SumTwoNumber {
 
 
 
+
         // Hiển thị kết quả
         System.out.println("Tổng của hai số là: " + sum);
         System.out.println("Hiệu của hai số là: " + sub);
