@@ -1,5 +1,5 @@
 import java.util.Scanner;
-import java.util.Scanner;
+
 public class MaxValue {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -24,5 +24,4 @@ public class MaxValue {
             System.out.println("Số lớn nhất là: " + num3);
         }
     }
-
 }
